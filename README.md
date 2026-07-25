@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [1539-kth-missing-positive-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
