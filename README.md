@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [1539-kth-missing-positive-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -80,10 +82,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
