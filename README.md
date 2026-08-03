@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -101,4 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
