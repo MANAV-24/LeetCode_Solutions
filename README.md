@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
