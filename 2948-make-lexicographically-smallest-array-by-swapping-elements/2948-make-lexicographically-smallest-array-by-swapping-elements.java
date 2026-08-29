@@ -9,17 +9,17 @@ class Solution {
         Map<Integer, Integer> numToGroup = new HashMap<>();   
         numToGroup.put(vec[0], groupNum);
 
-        Map<Integer, List<Integer>> groupToList = new HashMap<>();
-        groupToList.putIfAbsent(groupNum, new ArrayList<>());
+        Map<Integer, LinkedList<Integer>> groupToList = new HashMap<>();
+        groupToList.putIfAbsent(groupNum, new LinkedList<>());
         groupToList.get(groupNum).add(vec[0]);
 
         for(int i = 1; i < n; i++){
-            if(Math.abs(vec[i] - vec[i-1]) > limit){
+            if(vec[i] - vec[i-1] > limit){
                 groupNum += 1;
             }
 
             numToGroup.put(vec[i], groupNum);
-            groupToList.putIfAbsent(groupNum, new ArrayList<>());
+            groupToList.putIfAbsent(groupNum, new LinkedList<>());
             groupToList.get(groupNum).add(vec[i]);
 
         }
@@ -29,8 +29,7 @@ class Solution {
             int num = nums[i];
             int group = numToGroup.get(num);
             
-            result[i] = groupToList.get(group).get(0);
-            groupToList.get(group).remove(0); 
+            result[i] = groupToList.get(group).removeFirst();
 
         }
 
