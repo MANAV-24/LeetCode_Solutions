@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
