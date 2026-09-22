@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
