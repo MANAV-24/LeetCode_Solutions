@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
