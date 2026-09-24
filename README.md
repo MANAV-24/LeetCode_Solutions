@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
