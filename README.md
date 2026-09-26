@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
