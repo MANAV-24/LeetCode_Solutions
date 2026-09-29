@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Queue
 |  |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
