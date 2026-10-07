@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
