@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0048-rotate-image) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
