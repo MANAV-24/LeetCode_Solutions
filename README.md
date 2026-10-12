@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
