@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0877-stone-game) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MANAV-24/LeetCode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
